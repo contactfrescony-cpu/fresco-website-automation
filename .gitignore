@@ -1,0 +1,9 @@
+inbox/
+out/
+logs/
+.env
+*.webp
+*.jpg
+*.jpeg
+*.png
+*.heic
