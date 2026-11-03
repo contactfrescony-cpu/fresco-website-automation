@@ -1,22 +1,13 @@
-Edit the attached actual garment photograph into a premium e-commerce product photograph. The source photograph is the sole visual truth.
+Edit the attached original garment photo for an e-commerce catalogue. Use the original as the sole product reference.
 
-Apply these instructions to any garment type. Preserve the garment’s identity, visible design, fabric color, wash, texture, pattern, graphics, logos, labels, pockets, buttons, zippers, seams, stitching, neckline, sleeves, hems, length and proportions.
+Make conservative photographic edits: remove the surrounding background, use plain warm cream (#FBF8F3), center the complete visible garment in a square composition with comfortable margins (about 80% frame coverage), and use soft neutral lighting and a subtle shadow.
 
-Choose the presentation according to what the source supports:
-- Use a natural ghost-mannequin appearance when it can be achieved without inventing or changing product details.
-- If reshaping risks changing lettering, artwork, construction or silhouette, use minimal shaping.
-- If necessary, retain the original garment geometry and create a polished flat-lay product photograph.
-- Preserve the photographed side. Do not turn a back or side photograph into an invented front view.
-- Do not invent hidden or cropped garment areas.
+Default to the photographed garment shape and photographed side. A clean flat-lay is a valid finished result. Use gentle ghost-mannequin shaping only for simple garments when no product detail needs reconstruction. Never require a front view from a back or side photo. Do not reconstruct missing or hidden garment areas.
 
-Treat all lettering and artwork as existing photographic detail, not text to regenerate. Preserve visible character shapes, spacing, line breaks, placement, orientation and relative size. Do not retype, autocorrect, translate, complete, replace or invent wording. Small, blurred, distressed or partly hidden lettering should remain similarly unclear. Do not make it artificially readable. Preserve attached labels and hangtags.
+Preserve the original color, wash, fabric grain, print, pattern, silhouette, construction, pockets, seams, stitching, fasteners, hems, labels and hangtags. Do not enhance plain fabric into a new pattern, embroidery, swirls, embossed texture, or artificial grain. Avoid strong sharpening, smoothing, relighting or wrinkle removal. Keep folds that affect product details.
 
-Prioritize product fidelity over stronger shaping, symmetry, wrinkle removal or dramatic enhancement. Retain natural folds where removing them would distort prints, labels or construction. Avoid artificial fabric textures and excessive smoothing.
+Preserve lettering and logos as source photographic marks. Do not transcribe, retype, correct, complete, translate or replace them. Keep unclear marks unclear, without making up readable characters. Preserve placement, relative size, line breaks and attachment. Leave detail-bearing areas as close to the original appearance as possible.
 
-Remove the photography background and unrelated surroundings. Use a plain warm cream background (#FBF8F3), soft neutral studio lighting and a subtle natural shadow. Preserve the source garment color without introducing a warm color cast.
+If an aesthetic change conflicts with faithful product representation, reduce the edit. Prefer a modest, accurate photograph over an elaborate reconstruction.
 
-Create a square 1:1 composition. Center the complete visible garment with comfortable margins, occupying approximately 80% of the frame. Keep all source-visible garment edges within the frame.
-
-Do not add people, visible mannequins, props, accessories, text overlays, watermarks or invented branding.
-
-Return only the edited garment photograph.
+No people, visible mannequins, unrelated props, added accessories, text overlays or watermarks. Return only the edited garment image.
